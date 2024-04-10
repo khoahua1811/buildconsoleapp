@@ -1,0 +1,4 @@
+Card code, Cardholder name, Expiration date, Insurance company
+IC123456,Nguyen Van A,2024-12-31,ABC Insurance
+IC654321,Tran Thi B,2025-06-30,XYZ Insurance
+IC987654,Le Minh C,2026-03-31,DE Insurance

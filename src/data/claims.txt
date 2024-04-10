@@ -1,0 +1,4 @@
+Request Code, Customer Code, Card Code, Request Amount, Status
+CL123456,1,IC123456,10000000,Waiting
+CL654321,2,IC654321,20000000,Approved
+CL987654,3,IC987654,30000000,Reject
